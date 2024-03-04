@@ -1,0 +1,27 @@
+.dice {
+    background-color: gray;
+    border: 2px solid;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 310px;
+    margin-left: 700px;
+    margin-right: 700px;
+}
+
+h1{
+    color: #ffffff;
+}
+
+.button {
+    background-color: #387ed1;
+        color: #ffffff;
+        display: flex;
+        justify-content: center;
+        font-size: 16px;
+        margin-top: 30px;
+        margin-left: 702px;
+        margin-right: 700px;
+        padding: 8px;
+        border-radius: 4px;
+}
